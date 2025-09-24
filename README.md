@@ -4,14 +4,14 @@
 
 ChRomium Os Universal chrooT envirONment
 
-# [Crostini](chrome://os-settings/help) 
+# [Crostini](https://chromeos.dev/en/linux) 
 
-
-chrome://os-settings/help
+To enable on a chromebook
+`chrome://os-settings/help`
 
 # [Chromebrew](https://github.com/chromebrew/chromebrew)
 
-Anything other than stable isn't supported
+Anything other than stable isn't supported but may work
 
 To install run 
 
