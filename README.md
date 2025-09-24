@@ -1,7 +1,6 @@
 # ChromeOS-Superdoc
 
 ## [Crouton](https://github.com/dnschneid/crouton)
-
 ChRomium Os Universal chrooT envirONment
 
 ## [Crostini](https://chromeos.dev/en/linux) 
@@ -20,9 +19,13 @@ To install run
 If you're on cros <117 you can run it in crosh, if you're on >117 then you need to use [frecon](https://github.com/Stewarpt/Chromebook-Superdoc#frecon)
 
 ## [Sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) & other exploits
-
 Shady Hardware 1nstrument Makes Machine Enrollment Retreat
 
-
+### sh1ttyOOBE
+Cros 135-137 unenrollment method
+### Badapple
+## Index 
 ### Frecon
  `Ctrl`+`Alt`+`F2` the `F2` key on chromebook keyboards is generally the `→` key.
+### Crosh
+### Cros
