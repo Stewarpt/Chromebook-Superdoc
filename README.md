@@ -17,7 +17,7 @@ To install run
 
 `bash <(curl -L git.io/vddgY) && . ~/.bashrc`
 
-If you're on cros <117 you can run it in crosh, if you're on >117 then you need to use frecon
+If you're on cros <117 you can run it in crosh, if you're on >117 then you need to use [frecon](https://github.com/Stewarpt/Chromebook-Superdoc#frecon)
 
 ## [Sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) & other exploits
 
