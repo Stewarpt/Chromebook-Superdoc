@@ -27,7 +27,8 @@ Cros 135-137 unenrollment method
 Access [frecon](https://github.com/Stewarpt/Chromebook-Superdoc#frecon) without dev mode
 ## Index 
 ### Frecon
-  Requires Dev Mode to access
+> [!NOTE]
+> Requires Dev Mode to access
  
  `Ctrl`+`Alt`+`F2` the `F2` key on chromebook keyboards is generally the `→` key.
 ### Crosh
