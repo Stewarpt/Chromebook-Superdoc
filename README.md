@@ -26,6 +26,8 @@ Cros 135-137 unenrollment method
 ### Badapple
 ## Index 
 ### Frecon
+  Requires Dev Mode to access
+ 
  `Ctrl`+`Alt`+`F2` the `F2` key on chromebook keyboards is generally the `→` key.
 ### Crosh
 ### Cros
