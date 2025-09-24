@@ -4,7 +4,8 @@
 
 # [Crostini](chrome://os-settings/help) 
 
-You might have to scroll down but you should see a button that says setup 
+chrome://os-settings/help
 
-Chromebrew
+# [Chromebrew](https://github.com/chromebrew/chromebrew)
 
+# [Sh1mmer](https://github.com/MercuryWorkshop/sh1mmer)
