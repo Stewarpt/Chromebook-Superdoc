@@ -21,7 +21,7 @@ If you're on cros <117 you can run it in crosh, if you're on >117 then you need 
 ## [Sh1mmer](https://github.com/MercuryWorkshop/sh1mmer) & other exploits
 Shady Hardware 1nstrument Makes Machine Enrollment Retreat
 
-### sh1ttyOOBE
+### [sh1ttyOOBE](https://github.com/crosbreaker/sh1ttyOOBE/)
 Cros 135-137 unenrollment method
 ### Badapple
 ## Index 
