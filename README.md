@@ -24,7 +24,7 @@ Shady Hardware 1nstrument Makes Machine Enrollment Retreat
 ### [sh1ttyOOBE](https://github.com/crosbreaker/sh1ttyOOBE/)
 Cros 135-137 unenrollment method
 ### [Badapple](https://github.com/applefritter-inc/BadApple)
-Access [frecon](https://github.com/Stewarpt/Chromebook-Superdoc#frecon) without dev mode
+Access [frecon](https://github.com/Stewarpt/Chromebook-Superdoc#frecon) without dev mode (<kv4)
 ## Index 
 ### Frecon
 > [!NOTE]
